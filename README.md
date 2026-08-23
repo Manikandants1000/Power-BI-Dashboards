@@ -138,11 +138,11 @@ Add screenshots of your dashboard to the `Screenshots` folder and update the fil
 
 ### Sales Overview
 
-![Sales Dashboard](C:\Users\manik\Downloads\ADVENTURE Sales Data (1)\Pic1.png)
+![Sales Dashboard](Pic1.png)
 
 ### Detailed Analysis
 
-![Detailed Analysis](C:\Users\manik\Downloads\ADVENTURE Sales Data (1)\Pic2.png)
+![Detailed Analysis](Pic2.png)
 
 ## 📁 Project Structure
 
