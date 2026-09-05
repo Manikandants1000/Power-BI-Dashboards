@@ -239,6 +239,10 @@ This project is part of my Power BI learning and portfolio journey, with a focus
 
 Power BI | SQL | Excel | Data Analytics
 
+- 💼 LinkedIn: www.linkedin.com/in/manikandan-t-s-74818a297
+- 💻 GitHub: https://github.com/Manikandants1000
+- 📧 Email: manikandants1000@gmail.com
+
 ---
 
 ⭐ If you find this project useful, feel free to explore the dashboard and share your feedback.
