@@ -208,7 +208,11 @@ The project contains three report pages:
 
 **Dashboard → Analysis → Reports**
 
-You can add screenshots of each page to this README after uploading the images to your GitHub repository.
+![dashboard](Pic1.png)
+
+![dashboard](Pic2.png)
+
+![dashboard](Pic3.png)
 
 Example:
 
